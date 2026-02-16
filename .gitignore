@@ -1,2 +1,8 @@
-﻿.venv/
+﻿__pycache__/
 dist/
+poetry.lock
+poetry.toml
+.venv
+.ruff_cache/
+db_meta.json
+data/
